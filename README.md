@@ -5,4 +5,4 @@ This repository contains supplementary materials (or pointers to them) for the H
 (Will be populated soon!)
 
 - Source code will be hidden until publication, for anonymization purposes.
-- A Demo Video is available in the Videos folder:
+- A Demo Video is available in this folder (headbower-blurred.mp4). Click "Raw" to download.
