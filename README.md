@@ -3,4 +3,4 @@ This repository contains supplementary materials (or pointers to them) for the H
 
 ## Materials
 - Source code will be hidden until publication, for anonymization purposes. Unfortunately, we didn't find a functional way to anonymize our repositories.
-- A Demo Video for HeadBower is available in this folder. [Click here to download](https://github.com/anon-paper-supplements01234/headbower-supplements/raw/refs/heads/main/HeadBower-blurred.mp4).
+- A Demo Video for HeadBower, showing the instrument in "Violin Neck" configuration is available in this folder. [Click here to download](https://github.com/anon-paper-supplements01234/headbower-supplements/raw/refs/heads/main/HeadBower-blurred.mp4).
