@@ -3,3 +3,6 @@ This repository contains supplementary materials (or pointers to them) for the H
 
 ## Materials
 (Will be populated soon!)
+
+- Source code will be hidden until publication, for anonymization purposes.
+- A Demo Video is available in the Videos folder:
